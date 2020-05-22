@@ -43,7 +43,7 @@
 
 21、美团云：https://www.mtyun.com/
 
-22、数云https://www.shuyun.com/
+22、数云：https://www.shuyun.com/
 
 23、新睿云：https://www.xinruiyun.cn/
 
