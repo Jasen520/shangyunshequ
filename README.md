@@ -23,7 +23,7 @@
 
 11、天翼云：https://www.ctyun.cn/home/
 
-12、七牛：https://www.qiniu.com/
+12、七牛云：https://www.qiniu.com/
 
 13、Ucloud：https://www.ucloud.cn/
 
